@@ -1,3 +1,1 @@
-from django.contrib import admin
-
-# Register your models here.
+# Файл оставлен пустым, так как админка для API не требуется

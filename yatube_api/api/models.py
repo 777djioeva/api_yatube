@@ -1,3 +1,1 @@
-from django.db import models
-
-# Create your models here.
+# Все модели уже определены в приложении posts
